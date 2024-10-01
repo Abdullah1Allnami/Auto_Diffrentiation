@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates">
-      <change beforePath="$PROJECT_DIR$/.idea/Auto_Diffrentiation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Auto_Diffrentiation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Engine/Neural Networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trace/Trace - 2 .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trace/Trace - 2 .ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.test_engine.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -81,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727807739811</updated>
       <workItem from="1727807740886" duration="741000" />
-      <workItem from="1727808538580" duration="765000" />
+      <workItem from="1727808538580" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="last updates">
       <option name="closed" value="true" />
@@ -101,5 +99,8 @@
     <MESSAGE value="first version" />
     <MESSAGE value="last updates" />
     <option name="LAST_COMMIT_MESSAGE" value="last updates" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Auto_Diffrentiation$test_engine.coverage" NAME="test_engine Coverage Results" MODIFIED="1727810090647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
   </component>
 </project>
