@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates" />
+    <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/Engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/Neural Networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_engine.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abdullah1Allnami"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abdullah1Allnami&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abdullah1Allnami/Auto_Diffrentiation.git",
-    "accountId": "4e01de0f-94d3-4674-a5b7-ead2b1f5e1d1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abdullah1Allnami/Auto_Diffrentiation.git&quot;,
+    &quot;accountId&quot;: &quot;4e01de0f-94d3-4674-a5b7-ead2b1f5e1d1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mqcqkACMLeoO3HvINamE6nqsoe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/bdallhsydbdallh/Auto_Diffrentiation/Trace",
     "node.js.detected.package.eslint": "true",
@@ -71,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727807739811</updated>
       <workItem from="1727807740886" duration="741000" />
+      <workItem from="1727808538580" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="last updates">
       <option name="closed" value="true" />

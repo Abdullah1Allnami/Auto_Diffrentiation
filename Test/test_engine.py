@@ -1,5 +1,5 @@
 import torch
-from micrograd._engine import Scalar
+from Engine.engine import Scalar
 
 def test_sanity_check():
     x = Scalar(-4.0)
