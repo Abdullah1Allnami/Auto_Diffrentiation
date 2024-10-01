@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates">
-      <change afterPath="$PROJECT_DIR$/Trace/Trace1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Trace1.executor": "Debug",
+    "Python.Trace1.executor": "Run",
     "Python.test_engine.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -88,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727807739811</updated>
       <workItem from="1727807740886" duration="741000" />
-      <workItem from="1727808538580" duration="4996000" />
+      <workItem from="1727808538580" duration="5297000" />
     </task>
     <task id="LOCAL-00001" summary="last updates">
       <option name="closed" value="true" />
@@ -109,19 +105,8 @@
     <MESSAGE value="last updates" />
     <option name="LAST_COMMIT_MESSAGE" value="last updates" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Trace/Trace1.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Auto_Diffrentiation$Trace1.coverage" NAME="Trace1 Coverage Results" MODIFIED="1727814381215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trace" />
+    <SUITE FILE_PATH="coverage/Auto_Diffrentiation$Trace1.coverage" NAME="Trace1 Coverage Results" MODIFIED="1727814480868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trace" />
     <SUITE FILE_PATH="coverage/Auto_Diffrentiation$test_engine.coverage" NAME="test_engine Coverage Results" MODIFIED="1727810090647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
   </component>
 </project>
