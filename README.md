@@ -6,10 +6,7 @@ This project implements an auto-differentiation library using Python, similar to
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -25,3 +22,4 @@ To set up the project, clone the repository and install the required packages:
 git clone https://github.com/Abdullah1Allnami/Auto_Differentiation.git
 cd Auto_Differentiation
 pip install -r requirements.txt
+
