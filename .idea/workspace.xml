@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51ff413-c428-4d6d-96bb-a0b969fce01c" name="Changes" comment="last updates">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/Engine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/Neural Networks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Engin &amp; Neural Networks/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Auto_Diffrentiation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Auto_Diffrentiation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Engine/Neural Networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trace/Trace - 1 .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trace/Trace - 2 .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trace/Trace - 2 .ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,9 @@
       <recent name="$PROJECT_DIR$/Engin &amp; Neural Networks" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Engin" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -78,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727807739811</updated>
       <workItem from="1727807740886" duration="741000" />
-      <workItem from="1727808538580" duration="304000" />
+      <workItem from="1727808538580" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="last updates">
       <option name="closed" value="true" />
