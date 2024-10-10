@@ -1,7 +1,7 @@
 import random
 from typing import List
 import os
-os.chdir('/Users/bdallhsydbdallh/Documents/ON-Going-Projects/andrej')
+os.chdir('/Users/bdallhsydbdallh/Documents/ON-Going-Projects/practice')
 from Auto_Diffrentiation.Engine.engine import Scalar
 
 

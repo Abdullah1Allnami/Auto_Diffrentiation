@@ -1,5 +1,7 @@
 import torch
-from ..Engine.engine import Scalar
+import os
+os.chdir('/Users/bdallhsydbdallh/Documents/ON-Going-Projects/practice')
+from Auto_Diffrentiation.Engine.engine import Scalar
 
 def test_sanity_check():
     x = Scalar(-4.0)
