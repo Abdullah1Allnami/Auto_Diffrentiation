@@ -1,6 +1,8 @@
 import random
 from typing import List
-from Engine.engine import Scalar
+import os
+os.chdir('/Users/bdallhsydbdallh/Documents/ON-Going-Projects/andrej')
+from Auto_Diffrentiation.Engine.engine import Scalar
 
 
 class Module:
